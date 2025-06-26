@@ -300,7 +300,6 @@ Confusion matrix saved to figures/confusion_matrix.png
 - **Features**: 7 URL-based
 - **Accuracy**: 73.08%
 
-**Confusion Matrix**:
 
- 
+'![matrix](https://github.com/sairevanth1432/FinalyearprojectMUJ/blob/main/confusion_matrix.png)
 
